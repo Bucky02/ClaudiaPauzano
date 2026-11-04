@@ -15,7 +15,7 @@ export const images = {
    * Dimensione consigliata: 1600 x 2000 px (rapporto 4:5), file JPG sotto 400 KB.
    */
   hero: {
-    src: "/images/1.png",
+    src: "/images/1.jpeg",
     alt: "Ritratto di Claudia Pauzano",
   } satisfies ImageAsset,
 

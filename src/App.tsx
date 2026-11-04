@@ -21,7 +21,6 @@ function App() {
       <main id="main">
         <Hero />
         <About />
-        <Services />
         <Languages />
         <Portfolio />
         <Timeline />
