@@ -25,7 +25,7 @@ export const images = {
    */
   profile: {
     src: "/images/2.jpeg",
-    alt: "Ritratto di Claudia Pauzano, sorridente",
+    alt: "Ritratto di Claudia Pauzano, sorridentee",
   } satisfies ImageAsset,
 
   /**
